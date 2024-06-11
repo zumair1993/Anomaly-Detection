@@ -1,5 +1,5 @@
 # Comprehensive Network Intrusion Detection Using Combined Anomaly Detection, Supervised Learning, CGAN, and CNN Techniques
-# Author Umair Zia**
+# Author Umair Zia
 **Project Description:**
 Network intrusion detection systems (NIDS) are essential tools for identifying and mitigating malicious activities in a network. This project involves loading popular network traffic datasets, preprocessing the data, training multiple anomaly detection and supervised learning models, and visualizing the results to effectively detect network intrusions. Additionally, we will incorporate Conditional Generative Adversarial Networks (CGAN) for data augmentation and Convolutional Neural Networks (CNN) using TensorFlow for enhanced detection capabilities.
 Step-by-Step Detailed Description:
