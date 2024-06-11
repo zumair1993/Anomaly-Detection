@@ -8,10 +8,12 @@ Objective: Load network traffic data from popular datasets such as CICIDS2017 an
 Implementation: We use the pandas library to read data from a CSV file. The dataset contains various features of network traffic and a label indicating whether the traffic is normal or an attack.
 
 **CODE:**
+
 import pandas as pd
 
 SUPPORTED_DATASETS = {
     'CICIDS2017': 'https://www.unb.ca/cicids/datasets/cicids2017.html',
+    
     'UNSW-NB15': 'https://research.unb.ca/cicids/datasets/cicids2017.html'
 }
 
